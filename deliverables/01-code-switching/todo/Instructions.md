@@ -1,0 +1,1 @@
+Here is where we allow different AIs to give different prospectives on what should be done next, also the todos should be actionable items that are read throughly for AI to be able to develop code, run command lines and scripts and connect to databases if needed.
